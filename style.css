@@ -1,0 +1,25 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.name-highlight{
+    color:orange;
+}
+#Prothom{
+    width:40%;
+    float:left;
+    margin-left: 5%;
+    padding left: 2%;
+    image
+}
+#Prothom1{
+    width:40%;
+    float:left;
+    margin-left: 5%;
+    padding left: 2%;
+}
+#Prothom1 img{
+    width:100%;
+}
